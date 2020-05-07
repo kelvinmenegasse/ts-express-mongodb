@@ -1,4 +1,4 @@
-studying a new stack
+Studying a new stack
 
 NodeJS
 Typescript
